@@ -13,6 +13,8 @@ Used VBA to develop a macro that calculates Total Daily Volume and Return.
 
 * Finally, the macro was refactored so that it could be reused to assess a much larger dataset and still run efficiently.
 
+[Link to Refactored Macro Script](VBA_Challenge_macro_text.txt)
+
 ## Results
 
 ### Stock Performance Between 2017 and 2018
