@@ -3,11 +3,6 @@
 ## Overview of Project
 
 ### Purpose
-# VBA of Wall Street
-
-## Overview of Project
-
-### Purpose
 Assessment about how a set of twelve "green stocks" performed over a given year in terms of total volume traded (Total Daily Volume) and annual return (Return).
 
 ## Analysis of Outcomes
