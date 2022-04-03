@@ -30,7 +30,8 @@ The top performers from 2017 both posted negative returns in 2018.  This suggest
 
 ### Execution Times Between Original and Refactored Scripts
 
-The original macro scripts run in approximately 0.90 seconds (just under one second).
+The original macro scripts run in approximately one second.
+
 
 The refactored macro scripts run in approximately 0.20 seconds (about one-fifth of a second).
 
