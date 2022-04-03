@@ -34,6 +34,7 @@ The original macro scripts run in approximately 0.90 seconds (just under one sec
 
 The refactored macro scripts run in approximately 0.20 seconds (about one-fifth of a second).
 ![T2017 Stock Script Execution Time](VBA_Challenge_2017.PNG)
+
 ![T2018 Stock Script Execution Time](VBA_Challenge_2018.PNG)
 
 ## Summary
