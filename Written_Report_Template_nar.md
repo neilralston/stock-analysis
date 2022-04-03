@@ -27,17 +27,17 @@ The results of the assessment indicate that the two stocks with the best returns
 
 ### Stock Performance Between 2017 and 2018
 
-In 2017, all but one of the twelve stocks had a positive return.  The best performer was "DQ", followed by "SEDG".
+* In 2017, all but one of the twelve stocks had a positive return.  The best performer was "DQ", followed by "SEDG".
 
-In 2018, only two of the twelve stocks had a positive return -- "ENPH" and "RUN".  
+* In 2018, only two of the twelve stocks had a positive return -- "ENPH" and "RUN".  
 
-The top performers from 2017 both posted negative returns in 2018.  This suggests a high level of market volatility in this sector that should be considered before investing.
+* The top performers from 2017 both posted negative returns in 2018.  This suggests a high level of market volatility in this sector that should be considered before investing.
 
 ### Execution Times Between Original and Refactored Scripts
 
-The original macro script runs in approximately 0.90 seconds (just under one second).
+* The original macro script runs in approximately 0.90 seconds (just under one second).
 
-The refactored macro scripts runs in approximately 0.20 seconds (about one-fifth of a second).
+* The refactored macro scripts runs in approximately 0.20 seconds (about one-fifth of a second).
 
 ## Summary
 
