@@ -42,17 +42,17 @@ The refactored macro scripts runs in approximately 0.20 seconds (about one-fifth
 ## Summary
 
 What are the advantages or disadvantages of refactoring code?
-ensp A primary advantage of refactoring is to produce higher quality code that runs more efficiently.
+&nbsp; A primary advantage of refactoring is to produce higher quality code that runs more efficiently.
 
-ensp A disadvantage is that the refactoring process makes code more complex, requiring more functionality testing and creating greater opportunities for "breaks".
+&nbsp; A disadvantage is that the refactoring process makes code more complex, requiring more functionality testing and creating greater opportunities for "breaks".
 
 How do these pros and cons apply to refactoring the original VBA script?
 ensp The code runs faster after refactoring, which will make it more efficient if assessing a larger dataset.
 
-ensp I ran into trouble writing the correct syntax for the additional indexing arrays required to refactor the code. 
-ensp Fortunately, I was able to find help from an online source that displayed code written to solve a similar problem.  
-ensp This helped me to better understand the correct syntax for the assignment.
-ensp https://github.com/caseychen3605/stock-analysis 
+&nbsp; I ran into trouble writing the correct syntax for the additional indexing arrays required to refactor the code. 
+&nbsp; Fortunately, I was able to find help from an online source that displayed code written to solve a similar problem.  
+&nbsp; This helped me to better understand the correct syntax for the assignment.
+&nbsp; https://github.com/caseychen3605/stock-analysis 
 
 
 
