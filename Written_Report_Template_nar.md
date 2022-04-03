@@ -42,7 +42,7 @@ The refactored macro scripts runs in approximately 0.20 seconds (about one-fifth
 ## Summary
 
 What are the advantages or disadvantages of refactoring code?
-&nbsp; A primary advantage of refactoring is to produce higher quality code that runs more efficiently.
+* A primary advantage of refactoring is to produce higher quality code that runs more efficiently.
 
 &nbsp; A disadvantage is that the refactoring process makes code more complex, requiring more functionality testing and creating greater opportunities for "breaks".
 
