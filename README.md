@@ -1,5 +1,7 @@
 # VBA of Wall Street (Module 2)
 
+[Link to VBA_Challenge Excel File](VBA_Challenge.xlsm)
+
 ## Overview of Project
 
 ### Purpose
