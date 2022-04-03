@@ -15,13 +15,11 @@ Assessment about how a set of twelve "green stocks" performed over a given year 
 ### Analysis of Outcomes 
 Used VBA to develop a macro that calculates Total Daily Volume and Return.  
 
-To accomplish this task, the macro uses a combination of conditionals, arrays, loops, nested loops, and indexes.
+* To accomplish this task, the macro uses a combination of conditionals, arrays, loops, nested loops, and indexes.
 
-The macro uses conditional formatting for visual formatting, along with custom buttons for an easy user interface.
+* The macro uses conditional formatting for visual formatting, along with custom buttons for an easy user interface.
 
-Finally, the macro was refactored so that it could be reused to assess a much larger dataset and still run efficiently.
-
-The results of the assessment indicate that the two stocks with the best returns in 2018 were "ENPH" and "RUN".
+* Finally, the macro was refactored so that it could be reused to assess a much larger dataset and still run efficiently.
 
 ## Results
 
