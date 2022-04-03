@@ -22,15 +22,19 @@ In 2017, all but one of the twelve stocks had a positive return.  The best perfo
 
 ![T2017 Stock Performance Chart](2017_results.PNG)
 
-* In 2018, only two of the twelve stocks had a positive return -- "ENPH" and "RUN".  
+In 2018, only two of the twelve stocks had a positive return -- "ENPH" and "RUN".  
 
-* The top performers from 2017 both posted negative returns in 2018.  This suggests a high level of market volatility in this sector that should be considered before investing.
+![T2018 Stock Performance Chart](2018_results.PNG)
+
+The top performers from 2017 both posted negative returns in 2018.  This suggests a high level of market volatility in this sector that should be considered before investing.
 
 ### Execution Times Between Original and Refactored Scripts
 
-* The original macro script runs in approximately 0.90 seconds (just under one second).
+The original macro scripts run in approximately 0.90 seconds (just under one second).
 
-* The refactored macro scripts runs in approximately 0.20 seconds (about one-fifth of a second).
+The refactored macro scripts run in approximately 0.20 seconds (about one-fifth of a second).
+![T2017 Stock Script Execution Time](VBA_Challenge_2017.PNG)
+![T2018 Stock Script Execution Time](VBA_Challenge_2018.PNG)
 
 ## Summary
 
