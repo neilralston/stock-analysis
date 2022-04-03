@@ -18,7 +18,9 @@ Used VBA to develop a macro that calculates Total Daily Volume and Return.
 
 ### Stock Performance Between 2017 and 2018
 
-* In 2017, all but one of the twelve stocks had a positive return.  The best performer was "DQ", followed by "SEDG".
+In 2017, all but one of the twelve stocks had a positive return.  The best performer was "DQ", followed by "SEDG".
+
+![T2017 Stock Performance Chart](2017_results.PNG)
 
 * In 2018, only two of the twelve stocks had a positive return -- "ENPH" and "RUN".  
 
