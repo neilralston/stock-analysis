@@ -10,9 +10,7 @@
 ### Purpose
 Assessment about how a set of twelve "green stocks" performed over a given year in terms of total volume traded (Total Daily Volume) and annual return (Return).
 
-## Analysis and Challenges
-
-### Analysis of Outcomes 
+## Analysis of Outcomes
 Used VBA to develop a macro that calculates Total Daily Volume and Return.  
 
 * To accomplish this task, the macro uses a combination of conditionals, arrays, loops, nested loops, and indexes.
